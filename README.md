@@ -1,4 +1,4 @@
-# KEDA GitHub Template
+# GitHub Template for `arschles`
 
 A GitHub template to create new repos in our organization
 
